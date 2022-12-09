@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hazarre
-- 👀 I’m interested in data visualization, computational physics, AI, quantum computing, sustainability, education and fostering equal opportunities.
+- 👀 I’m interested in quantum computing, data visualization, computational physics, AI, sustainability, education and fostering equal opportunities.
 - 🌱 I’m currently learning Computer Science and Physics at Bard College, NY. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
